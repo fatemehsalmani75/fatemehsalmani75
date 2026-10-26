@@ -1,6 +1,6 @@
 # Hi, I'm Ariana (Fatemeh Salmani) 👋
 
-**AI Engineer & Senior Data Analyst (R&D)** · Tehran
+**AI Engineer & Senior Data Analyst (Business Development)** · Tehran
 MSc in Applied Mathematics (Numerical Analysis), Shahid Beheshti University
 
 I work where **applied mathematics meets real business data**: building data pipelines, dashboards and forecasting models that management uses for pricing, sales and inventory decisions. On the research side, I study the structure of deep neural networks.
